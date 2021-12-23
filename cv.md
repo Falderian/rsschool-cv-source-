@@ -1,7 +1,7 @@
 <h1>Nikita Staselovich.</h1>
   <h3>Contact information:</h3>
     <ul>
-      <li>Location: Belarus, Hrodna.</li>
+      <li>Location:Belarus, Hrodna.</li>
       <li>Phone: +375 29 243 19 24.</li>
       <li><a href="nikitastaselovich@gmail.com" target="_blank">Nikitastaselovich@gmail.com</a></li>
       <li><a href="https://github.com/Falderian" target="_blank">GitHub</a></li>
