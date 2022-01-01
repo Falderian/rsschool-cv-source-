@@ -1,1 +1,1 @@
-# rsschool-cv
+https://falderian.github.io/rsschool-cv/
