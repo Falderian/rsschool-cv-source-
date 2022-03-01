@@ -32,6 +32,7 @@ I am responsible, self-organized and hardworking. Reliability and punctuality ar
     </ul>
     <p>Projects(as Junior Dev)</p>
       <ul>
+        <li><a href = " https://rolling-scopes-school.github.io/falderian-JSFEPRESCHOOL/eco-sounds/" target = " _blank"> Eco - sounds player <a></li>
         <li><a href="https://github.com/Falderian/rsschool-cv" target="_blank"> CV-project for rssschool</a></li>
       </ul>
   <h3>Education</h3>
